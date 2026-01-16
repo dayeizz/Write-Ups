@@ -1,5 +1,4 @@
 # API Attack
----
 
 ### Question 1
 
@@ -302,3 +301,4 @@ curl -X GET \
    * `GET /api/v2/suppliers/current-user/cv`
 6. Decode Base64 data using CyberChef.
 7. Extract the flag.
+
