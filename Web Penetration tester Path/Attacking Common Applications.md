@@ -1,3 +1,4 @@
+# Attacking Common Application
 ### question: Use what you've learned from this section to generate a report with EyeWitness. What is the name of the .db file EyeWitness creates in the inlanefreight_eyewitness folder? (Format: filename.db)
 
 ```bash
@@ -957,3 +958,4 @@ xfreerdp3 /u:Administrator /p:'xcyj8izxNVzhf4z' /v:10.129.166.34 /dynamic-resolu
 * File → Open → `C:\inetpub\wwwroot\bin\MutimasterAPI.dll`
 * Inspect function: `GetColleagues(JObject):List<Colleague>@060000027`
 * Extract hardcoded password
+
