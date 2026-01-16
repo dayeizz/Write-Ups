@@ -283,7 +283,7 @@ curl -X GET \
 
 **Steps:**
 
-1. Obtain a color wordlist.
+1. Obtain a color wordlist. [color wordlist](https://gist.github.com/mordka/c65affdefccb7264efff77b836b5e717) 
 2. Brute-force security question answers:
 
    ```bash
@@ -301,4 +301,5 @@ curl -X GET \
    * `GET /api/v2/suppliers/current-user/cv`
 6. Decode Base64 data using CyberChef.
 7. Extract the flag.
+
 
