@@ -1,4 +1,4 @@
-# *Using Web Proxies"
+# **Using Web Proxies**
 
 **Topics Covered:**
 
@@ -170,5 +170,6 @@ set RPORT 52695
 run
 # Intercept → directory found: '/CFIDE/administrator/index.cfm'
 ```
+
 
 ---
